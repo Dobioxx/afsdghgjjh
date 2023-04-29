@@ -10,13 +10,13 @@
 
   
 
-<h1  align="center"  style="color:#1d64ff" >FMSS Bilişim Frontend Practicum Final Case</h1>
+<h1  align="center"  style="color:#1d64ff" >FMSS Frontend Practicum Final Case</h1>
 
   
 
 <p  align="center">
 
-A react project for FMSS Bilişim frontend practicum!
+A react project for FMSS frontend practicum!
 
 <br  />
 
@@ -110,7 +110,7 @@ A react project for FMSS Bilişim frontend practicum!
 
   
 
-![FMSS Bilişm frontend practicum final case ](https://github.com/akifemresenol1/fmss-frontend-final-case/blob/main/screenshots/projects-wiew.png)
+![FMSS frontend practicum final case ](https://github.com/akifemresenol1/fmss-frontend-final-case/blob/main/screenshots/projects-wiew.png)
 
   
 
