@@ -54,7 +54,7 @@ A react project for FMSS frontend practicum!
 
 <ul>
 
-<li><a  href="#built-with">Built With</a></li>
+<a  href="#built-with">Built With</a>
 
 </ul>
 
@@ -92,13 +92,9 @@ A react project for FMSS frontend practicum!
 
 <li>  <a  href="#project-details">Project Details</a></li>
 
-<li>  <a  href="#sources"> Sources</a></li>
-
 <li><a  href="#contributing">Contributing</a></li>
 
 <li><a  href="#contact">Contact</a></li>
-
-<li><a  href="#acknowledgments">Acknowledgments</a></li>
 
 </ol>
 
