@@ -110,7 +110,7 @@ A react project for FMSS Bilişim frontend practicum!
 
   
 
-![FMSS Bilişm frontend practicum final case ](https://github.com/belifkutlu/iyzico-frontend-practicum-final-case/blob/master/screenshots/projects-wiew.png?raw=true)
+![FMSS Bilişm frontend practicum final case ](https://github.com/akifemresenol1/fmss-frontend-final-case/blob/main/screenshots/projects-wiew.png)
 
   
 
@@ -136,10 +136,6 @@ A react project for FMSS Bilişim frontend practicum!
 
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-  
-
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
@@ -147,12 +143,6 @@ A react project for FMSS Bilişim frontend practicum!
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
   
-
-<!-- ## Live Demo 🔴
-
-  
-
-[Live Demo Link](https://livedemo.com) -->
 
   
 
@@ -212,7 +202,7 @@ npm start
 
   
 
-![mobile 1](https://github.com/belifkutlu/iyzico-frontend-practicum-final-case/blob/master/screenshots/mobile-screenshots.png?raw=true)
+![mobile 1](https://github.com/akifemresenol1/fmss-frontend-final-case/blob/main/screenshots/mobile-screenshots.png)
 
   
 
@@ -228,19 +218,19 @@ npm start
 
   
 
-![desktop 1](https://github.com/belifkutlu/iyzico-frontend-practicum-final-case/blob/master/screenshots/desktop-introducticon.png?raw=true)
+![desktop 1](https://github.com/akifemresenol1/fmss-frontend-final-case/blob/main/screenshots/desktop-intro.png)
 
   
 
-![desktop 2](https://github.com/belifkutlu/iyzico-frontend-practicum-final-case/blob/master/screenshots/desktop-starships.png?raw=true)
+![desktop 2](https://github.com/akifemresenol1/fmss-frontend-final-case/blob/main/screenshots/desktop-starships.png)
 
   
 
-![desktop 3](https://github.com/belifkutlu/iyzico-frontend-practicum-final-case/blob/master/screenshots/desktop-starship-detail.png?raw=true)
+![desktop 3](https://github.com/akifemresenol1/fmss-frontend-final-case/blob/main/screenshots/desktop-starship-detail.png)
 
   
 
-![desktop 4](https://github.com/belifkutlu/iyzico-frontend-practicum-final-case/blob/master/screenshots/404Page.png?raw=true)
+![desktop 4](https://github.com/akifemresenol1/fmss-frontend-final-case/blob/main/screenshots/Error404.png)
 
   
 
@@ -264,14 +254,7 @@ npm start
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
 
-  
-
-
-  
-
-<p  align="right">(<a  href="#readme-top">back to top</a>)</p>
-
-  
+ 
 
 ## Contact
 
@@ -324,25 +307,6 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
   
-
-<p  align="right">(<a  href="#readme-top">back to top</a>)</p>
-
-  
-
-## Acknowledgments
-
-  
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-  
-
-- [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
-
-- [Setup ESLINT and PRETTIER](https://dev.to/knowankit/setup-eslint-and-prettier-in-react-app-357b)
-
-
-- [React SVGR](https://react-svgr.com)
 
   
 
